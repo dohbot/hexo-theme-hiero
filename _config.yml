@@ -11,7 +11,8 @@ menu:
   About: about
 rss: /atom.xml
 
-since: 2017
+since: 2018
+
 
 # Set default keywords (Use a comma to separate)
 keywords: ""
@@ -63,7 +64,11 @@ widgets:
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
   Github: https://github.com/gsneotek-wisen
+<<<<<<< HEAD
   Weibo: https://www.facebook.com/gswisen
+=======
+  Weibo: 
+>>>>>>> 346c295f72eb24ac154996fa952ff409546f4404
   Twitter: 
   Facebook: 
   Google-plus: 
